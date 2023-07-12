@@ -1,0 +1,7 @@
+[headup-etcher]
+name=Headup etcher repo
+baseurl=https://us.mirrors.headup.ws/rpm/etcher/
+#gpgkey=https://us.mirrors.headup.ws/rpm/etcher/RPM-GPG-KEY-headup
+gpgkey=https://gist.githubusercontent.com/alsotoes/d848a9b7fe7cc33958cf8f7c896f119b/raw/ccd7428dd1912e8bc94ddf89e608de6d44f5e08c/RPM-GPG-KEY-headup
+enabled=1
+gpgcheck=1
